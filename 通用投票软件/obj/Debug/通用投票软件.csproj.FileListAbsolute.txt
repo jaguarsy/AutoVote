@@ -1,0 +1,8 @@
+D:\Program Files\test\通用投票软件\通用投票软件\bin\Debug\通用投票软件.exe
+D:\Program Files\test\通用投票软件\通用投票软件\bin\Debug\通用投票软件.pdb
+D:\Program Files\test\通用投票软件\通用投票软件\obj\Debug\通用投票软件.csprojResolveAssemblyReference.cache
+D:\Program Files\test\通用投票软件\通用投票软件\obj\Debug\通用投票软件.MainForm.resources
+D:\Program Files\test\通用投票软件\通用投票软件\obj\Debug\通用投票软件.Properties.Resources.resources
+D:\Program Files\test\通用投票软件\通用投票软件\obj\Debug\通用投票软件.csproj.GenerateResource.Cache
+D:\Program Files\test\通用投票软件\通用投票软件\obj\Debug\通用投票软件.exe
+D:\Program Files\test\通用投票软件\通用投票软件\obj\Debug\通用投票软件.pdb
